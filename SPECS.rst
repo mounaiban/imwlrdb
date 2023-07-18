@@ -169,7 +169,7 @@ Mapping
 This is a brief description of how ``dicts`` map to MWLR files:
 
 The outermost ``dict`` maps to a single-record file or the
-file-level context of the file in multile-record files.
+file-level context of the file in multi-record files.
 
 Inner ``dict``'s map to multi-value fields, or records in a
 multi-record file.
