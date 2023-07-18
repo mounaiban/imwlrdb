@@ -1,5 +1,5 @@
 =======
-iWMLRDB
+iMWLRDB
 =======
 
 Internet Multi-line Width-Limited Record Database Format
